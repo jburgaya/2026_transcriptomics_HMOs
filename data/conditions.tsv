@@ -1,0 +1,12 @@
+Condition1	Condition2
+Lactose_120	Lactose_400
+6SL_120	6SL_400
+LNnT_120	LNnT_400
+Lactose_120	LNnT_120
+Lactose_120	6SL_120
+Lactose_400	LNnT_400
+Lactose_400	6SL_400
+Lactose_120	LNnT_400
+Lactose_120	6SL_400
+Lactose_400	LNnT_120
+Lactose_400	6SL_120
