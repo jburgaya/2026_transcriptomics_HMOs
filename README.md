@@ -11,7 +11,7 @@ The different conditions tested are defined in `data/conditions.tsv` and the sam
 
 **Normalization** : To make gene expression values comparable across samples, normalization was done in three steps:
 * `deseq_normalization`: [DeSeq2](https://doi.org/10.1093/gigascience/giab008) was used to remove library size effects and make counts comparable across samples -> later on used for differential expression analyses & PCA.
-* `edger_normalization`: [edgeR]() was used to adjust for library compoistion effects using TMM (Trimmed Mean of M-values) -> later on used for exploratory analyses & clustering.
+* `edger_normalization`: [edgeR](https://doi.org/10.1093/bioinformatics/btp616) was used to adjust for library compoistion effects using TMM (Trimmed Mean of M-values) -> later on used for exploratory analyses & clustering.
 * `rpkm_calcluation`: normalize counts for gene length and sequencing depth -> compare expression levels across genes (not just across samples).
 
 **Exploratory analysis** : PCA analysis, sample clustering (heatmaps, distance matrix).
