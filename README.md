@@ -16,6 +16,6 @@ The different conditions tested are defined in `data/conditions.tsv` and the sam
 
 **Exploratory analysis** : PCA analysis.
 
-**Differnetial Expression** : Differnetially expressed genes between conditions (`data/conditions.tsv`). [DeSeq2](https://doi.org/10.1093/gigascience/giab008) was used with input files: normalized counts & conditions.tsv file. Volcano plot for visualization.
+**Differntial Expression** : Differntially expressed genes between conditions (`data/conditions.tsv`). [DeSeq2](https://doi.org/10.1093/gigascience/giab008) was used with input files: normalized counts & conditions.tsv file. Volcano plot for visualization.
 
 **GO terms functional enrichment analysis** : Get [GO terms](https://github.com/jburgaya/2026_transcriptomics_HMOs/blob/main/workflow/scripts/get_GOterms.py) from annotated reference. GO terms enrichment across conditions.
