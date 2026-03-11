@@ -5,7 +5,7 @@ Code for the analysis and plots of the transcriptomic data of D39 in 3 different
 The different conditions tested are defined in `data/conditions.tsv` and the samples in `data/samples.tsv`.
 
 # RNA-seq data analysis
-**Quality Control** : Reads QC was performed using [FastQC](https://github.com/s-andrews/FastQC) and adaptors trimmes with [TrimeGalore](https://github.com/FelixKrueger/TrimGalore). QC was repeated on trimmed reads to verify.
+**Quality Control** : Reads QC was performed using [FastQC](https://github.com/s-andrews/FastQC) and adaptors trimmed with [TrimeGalore](https://github.com/FelixKrueger/TrimGalore). QC was repeated on trimmed reads to verify.
 
 **Read Alignment & Read Counts** : BWA was used to index the [D39 reference genome](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000014365.2/) and reads were then mapped back to it. [SAMtools](https://doi.org/10.1093/gigascience/giab008) were used to convert SAM->BAM and [featureCounts](https://doi.org/10.1093/bioinformatics/btt656) used to generate the gene-level count matrix. 
 
