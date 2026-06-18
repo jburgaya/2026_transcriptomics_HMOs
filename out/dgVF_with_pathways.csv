@@ -1,0 +1,398 @@
+seqid,start,end,strand,locus_tag,gene_id,gene_name,product,pathway
+CP027540.1,1,1362,+,SPV_0001,dnaA,AVN85189.1,Chromosomal replication initiator protein DnaA,heat_shock
+CP027540.1,1521,2657,+,SPV_0002,dnaN,AVN85190.1,DNA polymerase III beta subunit,heat_shock
+CP027540.1,12174,14132,+,SPV_0013,ftsH,AVN85201.1,Cell division protein FtsH,heat_shock
+CP027540.1,14254,14733,+,SPV_0014,comX1,AVN85202.1,Competence-specific sigma factor ComX,natural_competence
+CP027540.1,22168,22404,+,SPV_0023,comW,AVN85203.1,Competence positive regulator ComW,natural_competence
+CP027540.1,41902,44055,+,SPV_0049,comA,AVN85222.1,Competence-stimulating peptide ABC transporter ATP-binding protein ComA,natural_competence
+CP027540.1,44068,45417,+,SPV_0050,comB,AVN85223.1,Competence-stimulating peptide ABC transporter permease protein ComB,natural_competence
+CP027540.1,60528,64466,-,SPV_0063,strH,AVN85236.1,Beta-hexosaminidase StrH,C_amino_sugar_Nglycans
+CP027540.1,64781,65524,-,SPV_0064,cpsR,AVN85237.1,Transcriptional regulator%2C GntR family,C_capsule
+CP027540.1,65845,67632,+,SPV_0065,bgaC,AVN85238.1,Beta-galactosidase,C_amino_sugar_Nglycans
+CP027540.1,67629,68105,+,SPV_0066,gadV,AVN85239.1,Galactosamine-specific PTS IIB component,Transporters
+CP027540.1,68133,69038,+,SPV_0067,gadW,AVN85240.1,Galactosamine-specific PTS IIC component,Transporters
+CP027540.1,69025,69840,+,SPV_0068,gadE,AVN85241.1,Galactosamine-specific PTS IID component,Transporters
+CP027540.1,69913,70251,+,SPV_0069,gadF,AVN85242.1,Galactosamine-specific PTS IIA component,Transporters
+CP027540.1,71832,72869,+,SPV_0071,galM,AVN85244.1,Aldose 1-epimerase,Leloir_Tagatose
+CP027540.1,88263,89192,+,SPV_0088,cds-AVN85260.1,AVN85260.1,Multiple sugar ABC transporter%2C membrane-spanning permease protein,Transporters
+CP027540.1,89206,90129,+,SPV_0089,cds-AVN85261.1,AVN85261.1,ABC transporter permease protein,Transporters
+CP027540.1,90387,91862,+,SPV_0090,cds-AVN85262.1,AVN85262.1,ABC transporter substrate-binding protein,Transporters
+CP027540.1,109776,110972,+,SPV_0110,argG,AVN85281.1,Argininosuccinate synthase,C_arginine
+CP027540.1,111001,112392,+,SPV_0111,argH,AVN85282.1,Argininosuccinate lyase,C_arginine
+CP027540.1,112681,113544,-,SPV_0112,rtgR,AVN85283.1,Transcriptional regulator of rtg locus,peptide_signaling
+CP027540.1,113770,113814,+,SPV_2467,rtgS1,USH90072.1,Pheromone in Rtg/SHP-like quorum-sensing system RtgR/RtgS,peptide_signaling
+CP027540.1,116222,116689,+,SPV_0114,rtgX,AVN85284.1,(Putative) GyrI-like protein,peptide_signaling
+CP027540.1,116686,118038,+,SPV_0115,rtgB,AVN85285.1,(Putative) RtgA transporter accessory protein,peptide_signaling
+CP027540.1,118184,118564,+,SPV_0116,rtgC,AVN85286.1,Double-glycine peptide transported by RtgAB,peptide_signaling
+CP027540.1,119733,119777,+,SPV_2470,rtgS2,USH90075.1,Pheromone in Rtg/SHP-like quorum-sensing system RtgR/RtgS,peptide_signaling
+CP027540.1,119812,119976,+,SPV_2099,rtgH,AVN85287.1,Protein in rtg locus (putative),peptide_signaling
+CP027540.1,120144,120515,+,SPV_0117,rtgK,AVN85288.1,(Putative) Double-glycine containing bacteriocin precursor peptide,peptide_signaling
+CP027540.1,120523,120735,+,SPV_2100,rtgL,AVN85289.1,Protein in rtg locus (putative),peptide_signaling
+CP027540.1,121109,121234,+,SPV_0118,cds-AVN85290.1,AVN85290.1,Hypothetical protein,peptide_signaling
+CP027540.1,121540,122598,+,SPV_0119,rtgP,AVN85292.1,(Putative) Integral membrane protein,peptide_signaling
+CP027540.1,122912,123889,+,SPV_0120,rtgQ,AVN85293.1,(Putative) Integral membrane protein,peptide_signaling
+CP027540.1,124266,124640,+,SPV_0121,rtgT,AVN85294.1,(Putative) Double-glycine containing bacteriocin precursor peptide,peptide_signaling
+CP027540.1,124647,124829,+,SPV_2102,rtgU,AVN85295.1,Protein in rtg locus (putative),peptide_signaling
+CP027540.1,124848,125750,+,SPV_0122,rtgY1,AVN85296.1,(Putative) Integral membrane protein,peptide_signaling
+CP027540.1,125806,126159,+,SPV_0123,rtgW1,AVN85297.1,(Putative) Double-glycine containing bacteriocin precursor peptide,peptide_signaling
+CP027540.1,126156,126884,+,SPV_0124,rtgZ1,AVN85298.1,(Putative) Integral membrane protein,peptide_signaling
+CP027540.1,127363,127560,+,SPV_2103,rtgD2,AVN85299.1,Pyridoxamine 5'-phosphate oxidase,peptide_signaling
+CP027540.1,128812,130671,+,SPV_0126,pspA,AVN85301.1,Surface protein PspA precursor,peptide_signaling
+CP027540.1,139021,139458,+,SPV_0135,rimI,AVN85312.1,Ribosomal-protein-S18p-alanine acetyltransferase,CRISPRi_hits
+CP027540.1,149955,150818,+,SPV_0144,mutR1,AVN85320.1,Rgg family transcriptional regulator in Rgg144/SHP144 quorum-sensing system,peptide_signaling
+CP027540.1,150808,150888,-,SPV_2573,shp144,XFU36293.1,Signal peptide in Rgg144/SHP144 quorum-sensing system,peptide_signaling
+CP027540.1,151109,151342,+,SPV_0145,vp1,AVN85321.1,Virulence peptide with glycine-glycine motif,peptide_signaling
+CP027540.1,152053,152718,+,SPV_0147,vpoB,AVN85323.1,(Putative) Abi family transmembrane protease,peptide_signaling
+CP027540.1,152790,154016,+,SPV_0148,vpoC,AVN85324.1,(Putative) Major facilitator superfamily 1 type transporter,peptide_signaling
+CP027540.1,154226,154822,+,SPV_0149,vpoD,AVN85325.1,(Putative) Branched chain amino acid transporter,peptide_signaling
+CP027540.1,183688,184086,+,SPV_0178,spxA2,AVN85353.1,Transcriptional regulator SpxA2,C_pyruvate
+CP027540.1,188186,189718,+,SPV_0185,cls,AVN85360.1,Cardiolipin synthetase,CRISPRi_hits
+CP027540.1,208281,208499,+,SPV_0215,infA,AVN85391.1,Translation initiation factor 1,CRISPRi_hits
+CP027540.1,212923,213615,+,SPV_0222,gpmB1,AVN85398.1,Phosphoglycerate mutase family protein,C_glycolisis
+CP027540.1,218966,219712,+,SPV_0230,deoR,AVN85402.1,Transcriptional regulator%2C DeoR family,CRISPRi_hits
+CP027540.1,220900,221220,+,SPV_0232,cds-AVN85404.1,AVN85404.1,Cellobiose-specific PTS IIA component,Transporters
+CP027540.1,221266,221574,+,SPV_0233,cds-AVN85405.1,AVN85405.1,Cellobiose-specific PTS IIB component,Transporters
+CP027540.1,221591,222889,+,SPV_0234,cds-AVN85406.1,AVN85406.1,Cellobiose-specific PTS IIC component,Transporters
+CP027540.1,234367,235125,+,SPV_0243,uppS,AVN85416.1,Undecaprenyl diphosphate synthase,CRISPRi_hits
+CP027540.1,239184,240563,+,SPV_0247,bglA,AVN85420.1,6-phospho-beta-glucosidase,C_dietary_glicans
+CP027540.1,240755,242563,+,SPV_0248,glmS,AVN85421.1,Glucosamine--fructose-6-phosphate aminotransferase,C_peptidoglycan
+CP027540.1,249346,251427,+,SPV_0253,fusA,AVN85426.1,Translation elongation factor G,C_dietary_glicans
+CP027540.1,260876,261787,-,SPV_0262,manN,AVN85435.1,Mannose-specific PTS IID component,Transporters
+CP027540.1,261811,262614,-,SPV_0263,manM,AVN85436.1,Mannose-specific PTS IIC component,Transporters
+CP027540.1,262642,263631,-,SPV_0264,manL,AVN85437.1,Mannose-specific PTS IIAB components,Transporters
+CP027540.1,263864,264883,-,SPV_0265,adhA,AVN85438.1,Alcohol dehydrogenase,C_pyruvate
+CP027540.1,275005,276441,+,SPV_0277,celA,AVN85451.1,6-phospho-beta-glucosidase,C_dietary_glicans
+CP027540.1,276862,277176,+,SPV_0279,celB,AVN85453.1,Cellobiose-specific PTS IIB component,Transporters
+CP027540.1,277300,279273,+,SPV_0280,celR,AVN85454.1,Transcriptional antiterminator of lichenan operon%2C BglG family,C_dietary_glicans
+CP027540.1,279283,279597,+,SPV_0281,celC,AVN85455.1,Cellobiose-specific PTS IIA component,Transporters
+CP027540.1,280202,281548,+,SPV_0283,celD,AVN85457.1,Cellobiose-specific PTS IIC component,Transporters
+CP027540.1,293406,293840,+,SPV_0293,cds-AVN85466.1,AVN85466.1,Hyaluronate-oligosaccharide-specific PTS IIA component,Transporters
+CP027540.1,295053,295544,+,SPV_0295,cds-AVN85468.1,AVN85468.1,Hyaluronate-oligosaccharide-specific PTS IIB component,Transporters
+CP027540.1,295559,296338,+,SPV_0296,cds-AVN85469.1,AVN85469.1,Hyaluronate-oligosaccharide-specific PTS IIC component,Transporters
+CP027540.1,296325,297143,+,SPV_0297,cds-AVN85470.1,AVN85470.1,Hyaluronate-oligosaccharide-specific PTS IID component,Transporters
+CP027540.1,297143,297436,+,SPV_0298,yajC-1,AVN85471.1,Preprotein translocase subunit YajC,CRISPRi_hits
+CP027540.1,299419,300420,+,SPV_0301,regR,AVN85473.1,Transcriptional regulator RegR,Leloir_Tagatose
+CP027540.1,302446,302763,+,SPV_0305,ftsL,AVN85478.1,Cell division protein FtsL,heat_shock
+CP027540.1,302767,305019,+,SPV_0306,pbp2x,AVN85479.1,Penicillin-binding protein 2X,CRISPRi_hits
+CP027540.1,306558,308663,+,SPV_0308,clpL,AVN85481.1,Putative ATP-dependent Clp proteinase ATP-binding subunit ClpL,heat_shock
+CP027540.1,311173,312780,+,SPV_0311,dexB,AVN85484.1,Glucan 1%2C6-alpha-glucosidase,CRISPRi_hits
+CP027540.1,314201,315646,+,SPV_0315,cps2A,AVN85486.1,Exopolysaccharide biosynthesis transcriptional regulator Cps2A,C_capsule
+CP027540.1,315648,316379,+,SPV_0316,cps2B,AVN85487.1,Tyrosine-protein phosphatase Cps2B,C_capsule
+CP027540.1,316388,317080,+,SPV_0317,cps2C,AVN85488.1,Capsular biosynthesis protein Cps2C,C_capsule
+CP027540.1,317090,317770,+,SPV_0318,cps2D,AVN85489.1,Tyrosine-protein kinase Cps2D,C_capsule
+CP027540.1,317785,319152,+,SPV_0319,cps2E,AVN85490.1,Undecaprenyl-phosphate galactosephosphotransferase Cps2E,C_capsule
+CP027540.1,319184,320368,+,SPV_0320,cps2T,AVN85491.1,Alpha-D-GlcNAc alpha-1%2C2-L-rhamnosyltransferase Cps2T,C_capsule
+CP027540.1,320361,321305,+,SPV_0321,cps2F,AVN85492.1,Alpha-L-Rha alpha-1%2C3-L-rhamnosyltransferase Cps2F,C_capsule
+CP027540.1,321321,322367,+,SPV_0322,cps2G,AVN85493.1,Glycosyltransferase Cps2G,C_capsule
+CP027540.1,322408,323571,+,SPV_0323,cps2H,AVN85494.1,Capsular synthesis protein Cps2H,C_capsule
+CP027540.1,323701,324858,+,SPV_0324,cps2I,AVN85495.1,Putative glycosyltransferase Cps2I,C_capsule
+CP027540.1,324855,326264,+,SPV_0325,cps2J,AVN85496.1,Polysaccharide biosynthesis protein Cps2J,C_capsule
+CP027540.1,326300,327538,+,SPV_0326,cps2K,AVN85497.1,UDP-glucose 6-dehydrogenase Cps2K,C_capsule
+CP027540.1,327567,328172,+,SPV_0327,cps2P,AVN85498.1,UDP-galactopyranose mutase Cps2P,C_capsule
+CP027540.1,328250,329119,+,SPV_0328,cps2L,AVN85499.1,Glucose-1-phosphate thymidylyltransferase Cps2L,C_capsule
+CP027540.1,329120,329713,+,SPV_0329,cps2M,AVN85500.1,dTDP-4-dehydrorhamnose 3%2C5-epimerase Cps2M,C_capsule
+CP027540.1,329726,330775,+,SPV_0330,cps2N,AVN85501.1,dTDP-glucose 4%2C6-dehydratase Cps2N,C_capsule
+CP027540.1,330841,331692,+,SPV_0331,cps2O,AVN85502.1,dTDP-4-dehydrorhamnose reductase Cps2O,C_capsule
+CP027540.1,333097,335079,+,SPV_0334,aliA,AVN85503.1,Oligopeptide ABC transporter%2C periplasmic oligopeptide-binding protein AliA,CRISPRi_hits
+CP027540.1,340849,343008,-,SPV_0336,pbp1a,AVN85505.1,Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1A,CRISPRi_hits
+CP027540.1,361746,363515,+,SPV_0360,mtlA,AVN85523.1,Mannitol-specific PTS IIBC components,Transporters
+CP027540.1,365496,365933,+,SPV_0362,mtlA2,AVN85525.1,Mannitol-specific PTS IIA component,Transporters
+CP027540.1,383747,384532,+,SPV_0378,fabM,AVN85541.1,Trans-2%2Ccis-3-Decenoyl-ACP isomerase,CRISPRi_hits
+CP027540.1,384626,385060,+,SPV_0379,fabT,AVN85542.1,Transcriptional regulator of fatty acid biosynthesis FabT,CRISPRi_hits
+CP027540.1,385060,386034,+,SPV_0380,fabH,AVN85543.1,3-oxoacyl-(acyl-carrier-protein) synthase FabH,CRISPRi_hits
+CP027540.1,386094,386318,+,SPV_0381,acpP,AVN85544.1,Acyl carrier protein,CRISPRi_hits
+CP027540.1,386437,387411,+,SPV_0382,fabK,AVN85545.1,Enoyl-(acyl-carrier-protein) reductase FabK,CRISPRi_hits
+CP027540.1,387404,388324,+,SPV_0383,fabD,AVN85546.1,Malonyl CoA-acyl carrier protein transacylase FabD,CRISPRi_hits
+CP027540.1,388358,389089,+,SPV_0384,fabG1,AVN85547.1,3-oxoacyl-[acyl-carrier protein] reductase FabG1,CRISPRi_hits
+CP027540.1,389111,390346,+,SPV_0385,fabF,AVN85548.1,3-oxoacyl-(acyl-carrier-protein) synthase FabF,CRISPRi_hits
+CP027540.1,390831,391253,+,SPV_0387,fabZ,AVN85550.1,3-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ,CRISPRi_hits
+CP027540.1,395410,395832,-,SPV_0393,nusB,AVN85556.1,Transcription termination protein NusB,CRISPRi_hits
+CP027540.1,396925,398367,-,SPV_0396,gatB,AVN85559.1,Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit B/glutamyl-tRNA(Glu) amidotransferase subunit B,C_amino_sugar_Nglycans
+CP027540.1,398367,399833,-,SPV_0397,gatA,AVN85560.1,Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit A/glutamyl-tRNA(Glu) amidotransferase subunit A,C_amino_sugar_Nglycans
+CP027540.1,399833,400135,-,SPV_0398,gatC,AVN85561.1,Bifunctional aspartyl-tRNA(Asp) amidotransferase subunit C/glutamyl-tRNA(Glu) amidotransferase subunit C,C_amino_sugar_Nglycans
+CP027540.1,400348,401892,+,SPV_0399,prfC,AVN85562.1,Peptide chain release factor 3,CRISPRi_hits
+CP027540.1,417652,418497,+,SPV_0417,uppP,AVN85577.1,Undecaprenyl-diphosphatase,CRISPRi_hits
+CP027540.1,420100,422424,+,SPV_0420,pfl,AVN85581.1,Pyruvate formate-lyase,C_pyruvate
+CP027540.1,426446,427768,+,SPV_0424,cds-AVN85585.1,AVN85585.1,Cellobiose-specific PTS IIC component,Transporters
+CP027540.1,429824,430168,+,SPV_0426,lacF-1,AVN85587.1,Lactose-specific PTS IIA component,Leloir_Tagatose
+CP027540.1,430178,431590,+,SPV_0427,lacG-1,AVN85588.1,6-phospho-beta-galactosidase,Leloir_Tagatose
+CP027540.1,431659,433338,+,SPV_0428,lacE-1,AVN85589.1,Lactose-specific PTS IIBC components,Leloir_Tagatose
+CP027540.1,445010,446617,+,SPV_0442,pyrG,AVN85603.1,CTP synthase,CRISPRi_hits
+CP027540.1,449100,454079,+,SPV_0444,endoD,AVN85605.1,Endo-beta-N-acetylglucosaminidase EndoD,C_amino_sugar_Nglycans
+CP027540.1,454169,455365,+,SPV_0445,pgk,AVN85606.1,Phosphoglycerate kinase,C_glycolisis
+CP027540.1,467980,469014,+,SPV_0458,hrcA,AVN85620.1,Heat-inducible transcription repressor HrcA,heat_shock
+CP027540.1,469041,469565,+,SPV_0459,grpE,AVN85621.1,Heat shock protein GrpE,CRISPRi_hits
+CP027540.1,470045,471868,+,SPV_0460,dnaK,AVN85622.1,Chaperone protein DnaK,CRISPRi_hits
+CP027540.1,472628,473746,+,SPV_0461,dnaJ,AVN85624.1,Chaperone protein DnaJ,CRISPRi_hits
+CP027540.1,486856,487491,+,SPV_0477,trmB,AVN85639.1,tRNA (guanine46-N7-)-methyltransferase,CRISPRi_hits
+CP027540.1,487617,488096,+,SPV_0478,rimP,AVN85640.1,Bacterial ribosome SSU maturation protein RimP,CRISPRi_hits
+CP027540.1,488140,489276,+,SPV_0479,nusA,AVN85641.1,Transcription termination/antitermination protein NusA,CRISPRi_hits
+CP027540.1,489900,492692,+,SPV_0482,infB,AVN85644.1,Translation initiation factor 2,CRISPRi_hits
+CP027540.1,492943,493293,+,SPV_0483,rbfA,AVN85645.1,Ribosome-binding factor A,CRISPRi_hits
+CP027540.1,508859,509698,+,SPV_0501,bglG,AVN85660.1,Beta-glucoside bgl operon antiterminator BglG,C_dietary_glicans
+CP027540.1,509716,511554,+,SPV_0502,bglF,AVN85661.1,Beta-glucoside-specific PTS IIBCA components,Transporters
+CP027540.1,511567,512982,+,SPV_0503,bglA-2,AVN85662.1,6-phospho-beta-glucosidase,C_dietary_glicans
+CP027540.1,513574,514620,+,SPV_0504,pheS,AVN85663.1,Phenylalanyl-tRNA synthetase alpha chain,C_shikimate
+CP027540.1,515206,517608,+,SPV_0506,pheT,AVN85665.1,Phenylalanyl-tRNA synthetase beta chain,C_shikimate
+CP027540.1,537439,538320,+,SPV_0526,fba,AVN85681.1,Class II fructose-bisphosphate aldolase,C_glycolisis
+CP027540.1,548306,549526,+,SPV_0535,murM,AVN85689.1,tRNA-dependent lipid II--L-alanine/serine ligase MurM,C_peptidoglycan
+CP027540.1,549531,550763,+,SPV_0536,murN,AVN85690.1,tRNA-dependent lipid II-Ala--L-alanine ligase MurN,C_peptidoglycan
+CP027540.1,570405,576839,+,SPV_0558,prtA,AVN85711.1,Serine protease PrtA precursor,CRISPRi_hits
+CP027540.1,577464,577940,+,SPV_0559,cds-AVN85712.1,AVN85712.1,Galactose-specific PTS IIA component,Leloir_Tagatose
+CP027540.1,577978,578283,+,SPV_0560,cds-AVN85713.1,AVN85713.1,Galactose-specific PTS IIB component,Leloir_Tagatose
+CP027540.1,578331,579806,+,SPV_0561,cds-AVN85714.1,AVN85714.1,Galactose-specific PTS IIC component,Leloir_Tagatose
+CP027540.1,580111,586797,+,SPV_0562,bgaA,AVN85715.1,Beta-galactosidase BgaA,C_amino_sugar_Nglycans
+CP027540.1,590318,592372,+,SPV_0569,nha2,AVN85719.1,Na+/H+ antiporter,CRISPRi_hits
+CP027540.1,608139,609098,+,SPV_0580,gki,AVN85731.1,Glucokinase,C_glycolisis
+CP027540.1,623359,624711,+,SPV_0598,murD,AVN85749.1,UDP-N-acetylmuramoylalanine--D-glutamate ligase,C_peptidoglycan
+CP027540.1,624715,625773,+,SPV_0599,murG,AVN85750.1,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,C_peptidoglycan
+CP027540.1,632401,633102,+,SPV_0608,pyrF,AVN85756.1,Orotidine 5'-phosphate decarboxylase,CRISPRi_hits
+CP027540.1,633136,633768,+,SPV_0609,pyrE,AVN85757.1,Orotate phosphoribosyltransferase,CRISPRi_hits
+CP027540.1,642953,644089,+,SPV_0621,lctO,AVN85768.1,L-Lactate 2-monooxygenase,C_pyruvate
+CP027540.1,654983,657226,+,SPV_0635,ctpA,AVN85783.1,Lead%2C cadmium%2C copper%2C zinc and mercury transporting P-type ATPase,CRISPRi_hits
+CP027540.1,657433,659208,+,SPV_0636,spxB,AVN85784.1,Pyruvate oxidase,C_pyruvate
+CP027540.1,668065,668532,+,SPV_0648,comEB,AVN85792.1,dCMP deaminase,natural_competence
+CP027540.1,668600,669250,+,SPV_0649,upp,AVN85793.1,Uracil phosphoribosyltransferase,CRISPRi_hits
+CP027540.1,669424,670014,+,SPV_0650,clpP,AVN85794.1,ATP-dependent Clp protease proteolytic subunit ClpP,CRISPRi_hits
+CP027540.1,676458,677447,+,SPV_0658,prfB,AVN85802.1,Peptide chain release factor 2,CRISPRi_hits
+CP027540.1,677465,678157,+,SPV_0659,ftsE,AVN85803.1,Cell division transporter%2C ATP-binding protein FtsE,heat_shock
+CP027540.1,678150,679076,+,SPV_0660,ftsX,AVN85804.1,Cell division protein FtsX,heat_shock
+CP027540.1,679362,681542,+,SPV_0661,malT,AVN85805.1,Maltose- and glucose-specific PTS IICBA components,Transporters
+CP027540.1,685850,686785,+,SPV_0665,pyrDa,AVN85809.1,Dihydroorotate dehydrogenase (fumarate),CRISPRi_hits
+CP027540.1,686819,687856,+,SPV_0666,holA,AVN85810.1,DNA polymerase III delta subunit,CRISPRi_hits
+CP027540.1,696397,696915,+,SPV_0678,rimM,AVN85820.1,16S rRNA processing protein RimM,CRISPRi_hits
+CP027540.1,696905,697624,+,SPV_0679,trmD,AVN85821.1,tRNA (guanine(37)-N(1))-methyltransferase,CRISPRi_hits
+CP027540.1,709252,709950,+,SPV_0695,fabG2,AVN85837.1,3-Ketoacyl-ACP reductase,CRISPRi_hits
+CP027540.1,721355,722578,+,SPV_0706,rodA,AVN85848.1,Cell shape-determining protein RodA,CRISPRi_hits
+CP027540.1,731934,734192,-,SPV_0717,clpE,AVN85855.1,ATP-dependent Clp protease ATP-binding subunit ClpE,heat_shock
+CP027540.1,739262,740473,+,SPV_0724,deoB,AVN85862.1,Phosphopentomutase,CRISPRi_hits
+CP027540.1,744493,745203,+,SPV_0730,deoD,AVN85865.1,Purine nucleoside phosphorylase,CRISPRi_hits
+CP027540.1,749754,750416,+,SPV_0737,deoC,AVN85873.1,Deoxyribose-phosphate aldolase,CRISPRi_hits
+CP027540.1,750403,750792,+,SPV_0738,cdd-1,AVN85874.1,Cytidine deaminase,CRISPRi_hits
+CP027540.1,771080,772735,+,SPV_0760,dnaX,AVN85892.1,DNA polymerase III subunits gamma and tau,heat_shock
+CP027540.1,778496,779737,-,SPV_0767,pbp3,AVN85899.1,D-alanyl-D-alanine carboxypeptidase%2C penicillin-binding protein 3,CRISPRi_hits
+CP027540.1,784019,785971,+,SPV_0773,fruA,AVN85903.1,Fructose-specific PTS IIABC components,Transporters
+CP027540.1,786057,788360,+,SPV_0774,ftsK,AVN85904.1,DNA translocase FtsK,heat_shock
+CP027540.1,800875,801345,-,SPV_0786,argR2,AVN85915.1,Arginine pathway regulatory protein ArgR2,C_arginine
+CP027540.1,803981,807082,+,SPV_0788,dnaE,AVN85917.1,DNA polymerase III alpha subunit,CRISPRi_hits
+CP027540.1,807165,808172,+,SPV_0789,pfkA,AVN85918.1,6-phosphofructokinase,C_glycolisis
+CP027540.1,808231,809736,+,SPV_0790,pyk,AVN85919.1,Pyruvate kinase,C_glycolisis
+CP027540.1,844886,845776,+,SPV_0826,holB,AVN85955.1,DNA polymerase III delta prime subunit,CRISPRi_hits
+CP027540.1,845816,846133,+,SPV_0827,yabA,AVN85956.1,DNA replication initiation control protein YabA,CRISPRi_hits
+CP027540.1,849793,851127,+,SPV_0833,trmFO,AVN85960.1,Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO,CRISPRi_hits
+CP027540.1,851211,851948,+,SPV_0834,pyrH,AVN85961.1,Uridine monophosphate kinase,CRISPRi_hits
+CP027540.1,857954,858604,+,SPV_0843,comEA,AVN85968.1,Late competence DNA receptor ComEA,natural_competence
+CP027540.1,858588,860828,+,SPV_0844,comEC,AVN85969.1,Late competence DNA transporter ComEC,natural_competence
+CP027540.1,863279,863836,+,SPV_0847,infC,AVN85972.1,Translation initiation factor 3,CRISPRi_hits
+CP027540.1,865168,865968,+,SPV_0851,pyrK,AVN85976.1,Dihydroorotate dehydrogenase (NAD(+))%2C electron transfer subunit,CRISPRi_hits
+CP027540.1,865979,866917,+,SPV_0852,pyrDb,AVN85977.1,Dihydroorotate dehydrogenase (NAD(+))%2C catalytic subunit,CRISPRi_hits
+CP027540.1,885372,885992,-,SPV_0870,gpmB2,AVN85995.1,Phosphoglycerate mutase family 5 protein,C_glycolisis
+CP027540.1,888355,889734,+,SPV_0874,glmU,AVN85999.1,Bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate N-acetyltransferase,C_peptidoglycan
+CP027540.1,891990,892580,+,SPV_0879,dnaQ,AVN86004.1,DNA polymerase III epsilon subunit,heat_shock
+CP027540.1,906760,908028,+,SPV_1030,pyrC,AVN86017.1,Dihydroorotase,CRISPRi_hits
+CP027540.1,937462,938766,-,SPV_1012,eno,AVN86034.1,Enolase,C_glycolisis
+CP027540.1,947285,948709,-,SPV_1004,gapN,AVN86041.1,Glyceraldehyde-3-phosphate dehydrogenase (NADP(+)),Leloir_Tagatose
+CP027540.1,982033,983292,-,SPV_0967,murA-1,AVN86076.1,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,C_peptidoglycan
+CP027540.1,991810,993570,-,SPV_0957,dnaG,AVN86085.1,DNA primase,heat_shock
+CP027540.1,999483,1000712,-,SPV_0952,ftsW,AVN86090.1,Cell division protein FtsW,heat_shock
+CP027540.1,1015296,1015367,-,SPV_2282,shp939,AVN86102.1,Signal peptide in Rgg939/SHP939 quorum-sensing system,peptide_signaling
+CP027540.1,1015448,1016302,+,SPV_0939,mutR2,AVN86103.1,Rgg family transcriptional regulator in Rgg939/SHP939 quorum-sensing system,peptide_signaling
+CP027540.1,1045724,1046803,-,SPV_0906,prfA,AVN86132.1,Peptide chain release factor 1,CRISPRi_hits
+CP027540.1,1048004,1048186,+,SPV_0903,xylH,AVN86135.1,Bifunctional 4-oxalocrotonate tautomerase/xylose transport system permease protein XylH,Transporters
+CP027540.1,1052957,1053388,+,SPV_0897,mesH,AVN86140.1,GtrA family protein,CRISPRi_hits
+CP027540.1,1067625,1069358,-,SPV_1039,ptsI,AVN86148.2,Phosphoenolpyruvate-protein phosphotransferase of PTS,Transporters
+CP027540.1,1073768,1074529,+,SPV_1044,lacR,AVN86153.1,Lactose phosphotransferase system repressor,Leloir_Tagatose
+CP027540.1,1075027,1076433,-,SPV_1046,lacG-2,AVN86154.1,6-phospho-beta-galactosidase,Leloir_Tagatose
+CP027540.1,1076642,1078333,-,SPV_1047,lacE-2,AVN86155.1,Lactose-specific PTS IIBC components,Leloir_Tagatose
+CP027540.1,1078333,1078650,-,SPV_1048,lacF-2,AVN86156.1,Lactose-specific PTS IIA component,Leloir_Tagatose
+CP027540.1,1078686,1079522,-,SPV_1049,lacT,AVN86157.1,Beta-glucoside bgl operon antiterminator LacT%2C BglG family,Leloir_Tagatose
+CP027540.1,1080737,1081666,-,SPV_1051,lacC,AVN86158.1,Tagatose-6-phosphate kinase LacC,Leloir_Tagatose
+CP027540.1,1081677,1082192,-,SPV_1052,lacB,AVN86159.1,Galactose-6-phosphate isomerase%2C LacB subunit,Leloir_Tagatose
+CP027540.1,1082223,1082648,-,SPV_1053,lacA,AVN86160.1,Galactose-6-phosphate isomerase%2C LacA subunit,Leloir_Tagatose
+CP027540.1,1084129,1084431,-,SPV_1057,cds-AVN86162.1,AVN86162.1,Galactose-specific PTS IIB component,Leloir_Tagatose
+CP027540.1,1089664,1090095,-,SPV_1063,ahrC,AVN86167.1,Arginine pathway regulatory protein AhrC,C_arginine
+CP027540.1,1093426,1094064,-,SPV_1068,udk,AVN86172.1,Uridine kinase,CRISPRi_hits
+CP027540.1,1102709,1103452,-,SPV_1076,srtA,AVN86179.1,Sortase SrtA%2C LPXTG specific,CRISPRi_hits
+CP027540.1,1106114,1107100,+,SPV_1078,ldh,AVN86181.1,L-lactate dehydrogenase,C_pyruvate
+CP027540.1,1132234,1133511,-,SPV_1101,ftsY,AVN86204.1,Signal recognition particle receptor FtsY,heat_shock
+CP027540.1,1154827,1155516,-,SPV_1123,licC,AVN86225.1,Cholinephosphate cytidylyltransferase LicC,C_phosphorylcholine
+CP027540.1,1155528,1156406,-,SPV_1124,licB,AVN86226.1,Choline permease LicB,C_phosphorylcholine
+CP027540.1,1156396,1157265,-,SPV_1125,licA,AVN86227.1,Choline kinase LicA,C_phosphorylcholine
+CP027540.1,1157282,1158304,-,SPV_1126,tarJ,AVN86228.1,Ribulose-5-phosphate reductase,C_phosphorylcholine
+CP027540.1,1158309,1159016,-,SPV_1127,tarI,AVN86229.1,Ribitol-5-phosphate cytidylyltransferase,C_phosphorylcholine
+CP027540.1,1160849,1161652,+,SPV_1129,licD1,AVN86231.1,Lipopolysaccharide cholinephosphotransferase LicD1,C_phosphorylcholine
+CP027540.1,1161654,1162463,+,SPV_1130,licD2,AVN86232.1,Lipopolysaccharide cholinephosphotransferase LicD2,C_phosphorylcholine
+CP027540.1,1167356,1168279,-,SPV_1133,pyrB,AVN86235.1,Aspartate carbamoyltransferase,CRISPRi_hits
+CP027540.1,1168298,1168819,-,SPV_1134,pyrR,AVN86236.1,Bifunctional uracil phosphoribosyltransferase/pyrimidine operon regulatory protein PyrR,CRISPRi_hits
+CP027540.1,1183021,1183464,-,SPV_1152,fld,AVN86253.1,Flavodoxin,CRISPRi_hits
+CP027540.1,1192297,1192704,-,SPV_1164,cdd-2,AVN86262.1,Cytidine deaminase,CRISPRi_hits
+CP027540.1,1201484,1202182,-,SPV_1172,nanE-2,AVN86270.1,N-acetylmannosamine-6-phosphate 2-epimerase,C_amino_sugar_Nglycans
+CP027540.1,1228533,1229519,-,SPV_1199,cps23FU,AVN86296.1,Glycosyltransferase%2C group 2 family,C_capsule
+CP027540.1,1230614,1231459,-,SPV_1201,licD3,AVN86298.2,Lipopolysaccharide cholinephosphotransferase LicD3,C_phosphorylcholine
+CP027540.1,1233009,1233857,-,SPV_1203,pheA,AVN86300.1,Prephenate dehydratase,C_shikimate
+CP027540.1,1233854,1234330,-,SPV_1204,aroK,AVN86301.1,Shikimate kinase I,C_shikimate
+CP027540.1,1234323,1235606,-,SPV_1205,aroA,AVN86302.1,5-Enolpyruvylshikimate-3-phosphate synthase,C_shikimate
+CP027540.1,1236047,1237150,-,SPV_1207,tyrA,AVN86304.1,Prephenate dehydrogenase,C_shikimate
+CP027540.1,1237160,1238326,-,SPV_1208,aroC,AVN86305.1,Chorismate synthase,C_shikimate
+CP027540.1,1238336,1239403,-,SPV_1209,aroB,AVN86306.1,3-dehydroquinate synthase,C_shikimate
+CP027540.1,1239422,1240276,-,SPV_1210,aroE,AVN86307.1,Shikimate/quinate 5-dehydrogenase I beta,C_shikimate
+CP027540.1,1240266,1240943,-,SPV_1211,aroD,AVN86308.1,3-dehydroquinate dehydratase I,C_shikimate
+CP027540.1,1254616,1255566,-,SPV_1222,murB,AVN86319.1,UDP-N-acetylenolpyruvoylglucosamine reductase,C_peptidoglycan
+CP027540.1,1267414,1267815,-,SPV_1236,spxA1,AVN86335.1,Transcriptional regulator SpxA1,C_pyruvate
+CP027540.1,1268632,1269405,-,SPV_1238,nagD,AVN86337.1,Putative NagD-like phosphatase,C_amino_sugar_Nglycans
+CP027540.1,1274323,1275030,-,SPV_1246,nagB,AVN86345.1,Glucosamine-6-phosphate deaminase,C_amino_sugar_Nglycans
+CP027540.1,1302298,1302996,+,SPV_1275,nagR,AVN86370.1,Transcriptional regulator in cluster with beta-lactamase%2C GntR family,C_amino_sugar_Nglycans
+CP027540.1,1308751,1309362,+,SPV_1285,def1,AVN86377.1,Peptide deformylase,CRISPRi_hits
+CP027540.1,1309407,1310135,+,SPV_1286,trmH,AVN86378.1,23S rRNA (guanosine(2251)-2'-O)-methyltransferase,CRISPRi_hits
+CP027540.1,1310174,1311085,-,SPV_1287,trxB,AVN86379.1,Thioredoxin reductase,CRISPRi_hits
+CP027540.1,1317383,1318762,-,SPV_1298,nox,AVN86390.1,NADH peroxidase,CRISPRi_hits
+CP027540.1,1327718,1329109,-,SPV_1309,pgdA,AVN86399.1,Peptidoglycan N-acetylglucosamine deacetylase,CRISPRi_hits
+CP027540.1,1329936,1330913,+,SPV_1311,mocA,AVN86400.1,Oxidoreductase%2C Gfo/Idh/MocA family,CRISPRi_hits
+CP027540.1,1330910,1331992,+,SPV_1312,yfmL,AVN86401.1,ATP-dependent RNA helicase YfmL,CRISPRi_hits
+CP027540.1,1341636,1343354,+,SPV_1326,pgm,AVN86409.1,Phosphoglucomutase,Leloir_Tagatose
+CP027540.1,1362016,1363350,-,SPV_1349,murC,AVN86432.1,UDP-N-acetylmuramate--alanine ligase,C_peptidoglycan
+CP027540.1,1371498,1373456,-,SPV_1357,aliB,AVN86437.1,Oligopeptide ABC transporter oligopeptide-binding protein AliB,CRISPRi_hits
+CP027540.1,1375387,1376832,+,SPV_1359,murE,AVN86439.1,UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase,C_peptidoglycan
+CP027540.1,1400404,1400814,-,SPV_1381,def2,AVN86461.1,Peptide deformylase,CRISPRi_hits
+CP027540.1,1411467,1412819,-,SPV_1390,glmM,AVN86470.1,Phosphoglucosamine mutase,C_peptidoglycan
+CP027540.1,1418428,1418808,-,SPV_1397,aldR,AVN86477.1,RidA/YER057c/UK114 superfamily protein,CRISPRi_hits
+CP027540.1,1419415,1420647,-,SPV_1399,clpX,AVN86479.1,ATP-dependent Clp protease ATP-binding subunit ClpX,heat_shock
+CP027540.1,1424042,1424800,-,SPV_1404,tpiA,AVN86484.1,Triosephosphate isomerase,C_glycolisis
+CP027540.1,1424898,1425575,-,SPV_1405,dnaD,AVN86485.1,Chromosome replication initiation protein DnaD,heat_shock
+CP027540.1,1428569,1429699,-,SPV_1409,msmK,AVN86490.1,Multiple sugar ABC transporter%2C ATP-binding protein,Transporters
+CP027540.1,1436380,1437723,+,SPV_1416,murT,AVN86496.1,Mur ligase family protein,C_peptidoglycan
+CP027540.1,1437723,1438505,+,SPV_1417,gatD,AVN86497.1,Putative amidotransferase similar to cobyric acid synthase,C_amino_sugar_Nglycans
+CP027540.1,1447486,1447698,+,SPV_1430,fer,AVN86509.1,Ferredoxin,CRISPRi_hits
+CP027540.1,1447760,1448731,-,SPV_1431,gtrB,AVN86510.1,Bactoprenol glucosyl transferase,CRISPRi_hits
+CP027540.1,1448715,1449734,-,SPV_1432,galE-1,AVN86511.1,UDP-glucose 4-epimerase,Leloir_Tagatose
+CP027540.1,1452718,1455054,-,SPV_1436,ctpE,AVN86516.1,Cadmium-transporting ATPase,CRISPRi_hits
+CP027540.1,1466661,1467311,+,SPV_1450,mntR,AVN86530.1,Mn-dependent transcriptional regulator MntR,CRISPRi_hits
+CP027540.1,1486438,1487130,-,SPV_1468,gpmA,AVN86547.1,Phosphoglycerate mutase,C_glycolisis
+CP027540.1,1494660,1495919,-,SPV_1479,ftsZ,AVN86555.1,Cell division protein FtsZ,heat_shock
+CP027540.1,1495936,1497309,-,SPV_1480,ftsA,AVN86556.1,Cell division protein FtsA,heat_shock
+CP027540.1,1498921,1500294,-,SPV_1483,murF,AVN86559.1,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,C_peptidoglycan
+CP027540.1,1501597,1502193,-,SPV_1485,recR,AVN86561.1,Recombination protein RecR,CRISPRi_hits
+CP027540.1,1502204,1504261,-,SPV_1486,pbp2b,AVN86562.2,Penicillin-binding protein 2B,CRISPRi_hits
+CP027540.1,1504461,1505312,+,SPV_1487,nanR,AVN86563.1,Sialic acid utilization regulator%2C RpiR family,C_amino_sugar_Nglycans
+CP027540.1,1505328,1506212,-,SPV_1488,nanK,AVN86564.1,N-acetylmannosamine kinase,C_amino_sugar_Nglycans
+CP027540.1,1507330,1507794,-,SPV_1490,cds-AVN86565.1,AVN86565.1,Hypothetical protein,C_amino_sugar_Nglycans
+CP027540.1,1508081,1508425,-,SPV_1491,cds-AVN86566.1,AVN86566.1,Hypothetical protein,C_amino_sugar_Nglycans
+CP027540.1,1508522,1508974,-,SPV_1492,yjgK,AVN86567.1,Protein YjgK%2C linked to biofilm formation,C_amino_sugar_Nglycans
+CP027540.1,1509247,1510086,-,SPV_1493,satC,AVN86568.1,ABC transporter%2C putative N-acetylneuraminate transport system permease protein 2,Transporters
+CP027540.1,1510102,1510989,-,SPV_1494,satB,AVN86569.1,ABC transporter%2C putative N-acetylneuraminate transport system permease protein 1,Transporters
+CP027540.1,1511220,1512548,-,SPV_1495,satA,AVN86570.1,ABC transporter%2C putative N-acetylneuraminate-binding protein,Transporters
+CP027540.1,1512673,1514190,-,SPV_1496,nanP,AVN86571.1,N-acetylglucosamine-specific PTS IIABC components,Transporters
+CP027540.1,1514209,1514907,-,SPV_1497,nanE-1,AVN86572.1,N-acetylmannosamine-6-phosphate 2-epimerase,C_amino_sugar_Nglycans
+CP027540.1,1515087,1516190,-,SPV_1498,cds-AVN86573.1,AVN86573.1,Oxidoreductase,C_amino_sugar_Nglycans
+CP027540.1,1516202,1518295,-,SPV_1499,nanB,AVN86574.1,Sialidase,C_amino_sugar_Nglycans
+CP027540.1,1518313,1519146,-,SPV_1500,cds-AVN86575.1,AVN86575.1,ABC transporter%2C permease protein,Transporters
+CP027540.1,1519146,1520030,-,SPV_1501,ycjO,AVN86576.1,ABC transporter membrane-spanning permease%2C sugar transport YcjO,Transporters
+CP027540.1,1520109,1521446,-,SPV_1502,cds-AVN86577.1,AVN86577.1,ABC transporter substrate-binding protein - sugar transport,Transporters
+CP027540.1,1521465,1521917,-,SPV_1503,cds-AVN86578.1,AVN86578.1,Putative beta-D-galactosidase,C_amino_sugar_Nglycans
+CP027540.1,1522932,1525994,-,SPV_1504,nanA,AVN86579.1,Sialidase NanA,C_amino_sugar_Nglycans
+CP027540.1,1526282,1526509,-,SPV_1505,cds-AVN86580.1,AVN86580.1,Hypothetical protein,C_amino_sugar_Nglycans
+CP027540.1,1532234,1533265,-,SPV_1510,aroF,AVN86586.1,2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha,C_shikimate
+CP027540.1,1533267,1534298,-,SPV_1511,aroG,AVN86587.1,2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha,C_shikimate
+CP027540.1,1539963,1540064,-,SPV_2542,shp1518,USH90147.1,Pheromone in Rgg1518/SHP1518 quorum-sensing system,peptide_signaling
+CP027540.1,1544179,1545075,-,SPV_1521,dnaI,AVN86598.1,Helicase loader DnaI,heat_shock
+CP027540.1,1545076,1546245,-,SPV_1522,dnaB,AVN86599.1,Helicase loader DnaB,heat_shock
+CP027540.1,1546859,1547224,+,SPV_1524,gntR,AVN86601.1,Transcriptional regulator%2C GntR family,CRISPRi_hits
+CP027540.1,1553456,1554343,-,SPV_1531,scrK,AVN86608.1,Fructokinase,C_dietary_glicans
+CP027540.1,1554492,1556375,-,SPV_1532,scrA,AVN86609.1,Sucrose-specific PTS IIBCA components,Transporters
+CP027540.1,1556752,1558206,+,SPV_1534,scrB,AVN86611.1,Sucrose-6-phosphate hydrolase,C_dietary_glicans
+CP027540.1,1558187,1559152,+,SPV_1535,scrR,AVN86612.1,Sucrose operon repressor ScrR%2C LacI family,C_dietary_glicans
+CP027540.1,1586205,1586519,+,SPV_1567,trxA,AVN86642.1,Thioredoxin,CRISPRi_hits
+CP027540.1,1600138,1600983,-,SPV_1583,susT2,AVN86660.1,Transmembrane component of SuST1/SusT2 ABC Transporter,Transporters
+CP027540.1,1600985,1601887,-,SPV_1584,susT1,AVN86661.1,Transmembrane component of SuST1/SusT2 ABC Transporter,Transporters
+CP027540.1,1601983,1603293,-,SPV_1585,susX,AVN86662.1,Solute-binding lipoprotein component for SusT1/SusT2 ABC transporter,Transporters
+CP027540.1,1603420,1604415,-,SPV_1586,susR,AVN86663.1,Sucrose utilization system repressor,Transporters
+CP027540.1,1622262,1623953,-,SPV_1607,sfuB,AVN86685.1,Iron(III)-transport system permease protein SfuB,C_dietary_glicans
+CP027540.1,1627039,1628019,-,SPV_1612,galE-2,AVN86689.1,UDP-glucose 4-epimerase,Leloir_Tagatose
+CP027540.1,1628032,1629507,-,SPV_1613,galT-1,AVN86690.1,Galactose-1-phosphate uridylyltransferase,Leloir_Tagatose
+CP027540.1,1646605,1647009,-,SPV_1632,paaI,AVN86703.1,Thioesterase,CRISPRi_hits
+CP027540.1,1647079,1648560,-,SPV_1633,galT-2,AVN86704.1,Galactose-1-phosphate uridylyltransferase,Leloir_Tagatose
+CP027540.1,1648579,1649757,-,SPV_1634,galK,AVN86705.1,Galactokinase,Leloir_Tagatose
+CP027540.1,1649921,1650928,+,SPV_1635,galR,AVN86706.1,Galactose operon repressor%2C GalR-LacI family,Leloir_Tagatose
+CP027540.1,1650974,1652011,-,SPV_1636,adhB,AVN86707.1,Alcohol dehydrogenase,C_pyruvate
+CP027540.1,1654335,1655141,-,SPV_1640,pnuC,AVN86711.1,Ribosyl nicotinamide transporter PnuC,Transporters
+CP027540.1,1672887,1673681,-,SPV_1661,murI,AVN86732.1,Glutamate racemase,C_peptidoglycan
+CP027540.1,1676081,1678048,-,SPV_1664,treP,AVN86735.1,Trehalose-specific PTS IIBCA components,Transporters
+CP027540.1,1690779,1691612,-,SPV_1675,msmG,AVN86745.1,Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmG,Transporters
+CP027540.1,1691626,1692492,-,SPV_1676,msmF,AVN86746.1,Multiple sugar ABC transporter%2C membrane-spanning permease protein MsmF,Transporters
+CP027540.1,1692506,1693765,-,SPV_1677,msmE,AVN86747.1,Multiple sugar ABC transporter%2C substrate-binding protein MsmE,Transporters
+CP027540.1,1693857,1696019,-,SPV_1678,agaN,AVN86748.1,Alpha-galactosidase,C_dietary_glicans
+CP027540.1,1696127,1696987,+,SPV_1679,msmR,AVN86749.1,Multiple sugar metabolism operon regulatory protein MsmR,Transporters
+CP027540.1,1710391,1712013,-,SPV_1709,groEL,AVN86756.1,Heat shock protein 60 family chaperone GroEL,CRISPRi_hits
+CP027540.1,1712029,1712313,-,SPV_1710,groES,AVN86757.1,Heat shock protein 60 family co-chaperone GroES,CRISPRi_hits
+CP027540.1,1737690,1738310,-,SPV_1744,comM,AVN86786.1,Immunity factor ComM,natural_competence
+CP027540.1,1762909,1764192,-,SPV_1764,murA-2,AVN86804.1,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,C_peptidoglycan
+CP027540.1,1770581,1771375,-,SPV_1774,pflA,AVN86814.1,Pyruvate formate-lyase activating enzyme,C_pyruvate
+CP027540.1,1803135,1803614,-,SPV_1818,comX2,AVN86844.1,Competence-specific sigma factor ComX,natural_competence
+CP027540.1,1803736,1804272,-,SPV_1819,nusG,AVN86845.2,Transcription antitermination protein NusG,CRISPRi_hits
+CP027540.1,1804718,1806913,-,SPV_1821,pbp2a,AVN86848.1,Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 2A,CRISPRi_hits
+CP027540.1,1807943,1808950,-,SPV_1823,gap,AVN86850.1,NAD-dependent glyceraldehyde-3-phosphate dehydrogenase,C_glycolisis
+CP027540.1,1816865,1818160,+,SPV_1831,bguD,AVN86857.1,Cellobiose-specific PTS IIC component,Transporters
+CP027540.1,1818165,1818473,+,SPV_1832,bguB,AVN86858.1,Cellobiose-specific PTS IIB component,Transporters
+CP027540.1,1818470,1818778,+,SPV_1833,bguC,AVN86859.1,Cellobiose-specific PTS IIA component,Transporters
+CP027540.1,1819686,1822337,-,SPV_1834,adhE,AVN86860.1,Bifunctional acetaldehyde dehydrogenase/alcohol dehydrogenase,C_pyruvate
+CP027540.1,1823524,1823823,-,SPV_1838,yajC,AVN86863.1,Preprotein translocase subunit YajC,CRISPRi_hits
+CP027540.1,1823940,1825916,-,SPV_1839,ulaH,AVN86864.1,Transketolase,CRISPRi_hits
+CP027540.1,1826030,1827121,-,SPV_1840,ulaG,AVN86865.1,Putative L-ascorbate-6-phosphate lactonase UlaG,CRISPRi_hits
+CP027540.1,1827233,1828906,-,SPV_1841,ulaR,AVN86866.1,Transcriptional antiterminator,CRISPRi_hits
+CP027540.1,1829085,1829789,-,SPV_1842,ulaF,AVN86867.1,L-ribulose-5-phosphate 4-epimerase,CRISPRi_hits
+CP027540.1,1829791,1830654,-,SPV_1843,ulaE,AVN86868.1,L-xylulose 5-phosphate 3-epimerase,CRISPRi_hits
+CP027540.1,1830658,1831323,-,SPV_1844,ulaD,AVN86869.1,3-keto-L-gulonate 6-phosphate decarboxylase,CRISPRi_hits
+CP027540.1,1831340,1831825,-,SPV_1845,ulaC,AVN86870.1,Ascorbate-specific PTS IIA component,Leloir_Tagatose
+CP027540.1,1831902,1832183,-,SPV_1846,ulaB,AVN86871.1,Ascorbate-specific PTS IIB component,Transporters
+CP027540.1,1832206,1833663,-,SPV_1847,ulaA,AVN86872.1,Ascorbate-specific PTS IIC component,Transporters
+CP027540.1,1836792,1837982,-,SPV_1853,ackA,AVN86878.1,Acetate kinase,C_pyruvate
+CP027540.1,1839778,1840191,-,SPV_1857,comGG,AVN86880.1,Late competence protein ComGG,natural_competence
+CP027540.1,1840169,1840630,-,SPV_1858,comGF,AVN86881.1,Late competence protein ComGF,natural_competence
+CP027540.1,1840593,1840853,-,SPV_1859,comGE,AVN86882.1,Late competence protein ComGE,natural_competence
+CP027540.1,1840858,1841262,-,SPV_1860,comGD,AVN86883.1,Late competence protein ComGD,natural_competence
+CP027540.1,1841255,1841581,-,SPV_1861,comGC,AVN86884.1,Late competence protein ComGC,natural_competence
+CP027540.1,1841583,1842455,-,SPV_1862,comGB,AVN86885.1,Late competence protein ComGB,natural_competence
+CP027540.1,1842547,1843488,-,SPV_1863,comGA,AVN86886.1,Late competence protein ComGA,natural_competence
+CP027540.1,1844080,1845138,-,SPV_1865,adh,AVN86888.1,Putative Zn-dependent alcohol dehydrogenase,C_pyruvate
+CP027540.1,1845301,1846452,-,SPV_1866,nagA,AVN86889.1,N-acetylglucosamine-6-phosphate deacetylase,C_amino_sugar_Nglycans
+CP027540.1,1846605,1848422,-,SPV_1867,adr,AVN86890.1,Acyltransferase family,CRISPRi_hits
+CP027540.1,1867120,1868469,-,SPV_1897,pgi,AVN86902.1,Glucose-6-phosphate isomerase,C_glycolisis
+CP027540.1,1876446,1876892,-,SPV_1904,argR1,AVN86908.1,Arginine pathway regulatory protein ArgR1,C_arginine
+CP027540.1,1877040,1878731,+,SPV_1905,argS,AVN86909.1,Arginyl-tRNA synthetase,C_arginine
+CP027540.1,1888745,1889644,+,SPV_1919,galU,AVN86922.1,UTP--glucose-1-phosphate uridylyltransferase,Leloir_Tagatose
+CP027540.1,1894025,1896490,-,SPV_1925,pbp1b,AVN86928.1,Multimodular transpeptidase-transglycosylase%2C penicillin-binding protein 1B,CRISPRi_hits
+CP027540.1,1896632,1897888,+,SPV_1926,tyrS,AVN86929.1,Tyrosyl-tRNA synthetase,C_shikimate
+CP027540.1,1897966,1900029,-,SPV_1927,ctpC,AVN86930.1,Lead%2C cadmium%2C zinc and mercury transporting ATPase,CRISPRi_hits
+CP027540.1,1903725,1905983,-,SPV_1932,malP,AVN86936.1,Maltodextrin phosphorylase,CRISPRi_hits
+CP027540.1,1906009,1907526,-,SPV_1933,malQ,AVN86937.1,4-alpha-glucanotransferase (amylomaltase),CRISPRi_hits
+CP027540.1,1908076,1909347,+,SPV_1934,malX,AVN86938.1,Maltose/maltodextrin ABC transporter%2C substrate binding periplasmic protein MalX,Transporters
+CP027540.1,1909458,1910750,+,SPV_1935,malC,AVN86939.1,Maltose/maltodextrin ABC transporter%2C permease protein MalC,Transporters
+CP027540.1,1910752,1911594,+,SPV_1936,malD,AVN86940.1,Maltose/maltodextrin ABC transporter%2C permease protein MalD,Transporters
+CP027540.1,1911847,1912647,+,SPV_1937,malA,AVN86941.1,Maltodextrose utilization protein MalA,CRISPRi_hits
+CP027540.1,1912657,1913643,+,SPV_1938,malR,AVN86942.1,Maltose operon transcriptional repressor MalR%2C LacI family,CRISPRi_hits
+CP027540.1,1927715,1929061,-,SPV_1959,ulaA2,AVN86963.1,Putative transport protein SgaT,CRISPRi_hits
+CP027540.1,1929074,1929358,-,SPV_1960,ulaB2,AVN86964.1,Putative PTS IIB component,Transporters
+CP027540.1,1929362,1931392,-,SPV_1961,ulaR2,AVN86965.1,Transcription antiterminator%2C BglG family,CRISPRi_hits
+CP027540.1,1940686,1943331,-,SPV_1971,cds-AVN86975.1,AVN86975.1,Alpha-mannosidase,C_amino_sugar_Nglycans
+CP027540.1,1944873,1946957,+,SPV_1973,cds-AVN86977.1,AVN86977.1,Alpha-1%2C2-mannosidase,C_amino_sugar_Nglycans
+CP027540.1,1958292,1959443,-,SPV_1985,adh2,AVN86987.1,Lactaldehyde dehydrogenase involved in fucose or rhamnose utilization,C_pyruvate
+CP027540.1,1966891,1967691,-,SPV_1989,cds-AVN86991.1,AVN86991.1,Mannose-specific PTS IID component,Transporters
+CP027540.1,1967688,1968461,-,SPV_1990,cds-AVN86992.1,AVN86992.1,Mannose-specific PTS IIC component,Transporters
+CP027540.1,1968486,1968956,-,SPV_1991,cds-AVN86993.1,AVN86993.1,PTS IIB component,Transporters
+CP027540.1,1968947,1969390,-,SPV_1992,cds-AVN86994.1,AVN86994.1,PTS IIA component,Transporters
+CP027540.1,1987137,1987283,-,SPV_2010,cds-AVN87012.1,AVN87012.1,Hypothetical protein,C_glycerol
+CP027540.1,1988305,1990131,-,SPV_2012,glpO,AVN87014.1,Alpha-glycerophosphate oxidase,C_glycerol
+CP027540.1,1990173,1991681,-,SPV_2013,glpK,AVN87015.1,Glycerol kinase,C_glycerol
+CP027540.1,2000918,2003350,-,SPV_2022,clpC,AVN87025.1,ATP-dependent Clp protease ATP-binding subunit ClpC,heat_shock
+CP027540.1,2003352,2003810,-,SPV_2023,ctsR,AVN87026.1,Transcriptional regulator CtsR,heat_shock
+CP027540.1,2008672,2010024,-,SPV_2030,dnaC,AVN87033.1,Replicative DNA helicase DnaC,heat_shock
+CP027540.1,2013254,2013916,-,SPV_2034,comFC,AVN87037.1,Phosphoribosyltransferase domain protein%2C ComF operon protein C,natural_competence
+CP027540.1,2013913,2015211,-,SPV_2035,comFA,AVN87038.1,DNA transporter ATPase%2C ComF operon protein A,natural_competence
+CP027540.1,2022072,2022566,-,SPV_2044,mreD,AVN87044.1,Cell shape-determining protein MreD,CRISPRi_hits
+CP027540.1,2022566,2023384,-,SPV_2045,mreC,AVN87045.1,Cell shape-determining protein MreC,CRISPRi_hits
+CP027540.1,2023443,2024237,-,SPV_2046,cbiQ,AVN87046.1,Transmembrane component of general energizing module of ECF transporter,CRISPRi_hits
+CP027540.1,2024230,2025069,-,SPV_2047,cbiO2,AVN87047.1,ATPase component of general energizing module of ECF transporter,CRISPRi_hits
+CP027540.1,2025054,2025881,-,SPV_2048,cbiO1,AVN87048.1,ATPase component of general energizing module of ECF transporter,CRISPRi_hits
+CP027540.1,2041199,2041951,-,SPV_2063,comE,AVN87060.1,Two-component system response regulator ComE,natural_competence
+CP027540.1,2041948,2043273,-,SPV_2064,comD,AVN87061.1,Two-component system sensor histidine kinase ComD,natural_competence
+CP027540.1,2043294,2043419,-,SPV_2065,comC1,AVN87062.1,Competence-stimulating peptide precursor ComC,natural_competence
