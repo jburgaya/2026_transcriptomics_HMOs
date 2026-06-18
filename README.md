@@ -9,9 +9,7 @@ The different conditions tested are defined in `data/conditions.tsv` and the sam
 
 **Read Alignment & Read Counts** : BWA was used to index the [D39 reference genome](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000014365.2/) and reads were then mapped back to it. [SAMtools](https://doi.org/10.1093/gigascience/giab008) were used to convert SAM->BAM and [featureCounts](https://doi.org/10.1093/bioinformatics/btt656) used to generate the gene-level count matrix. 
 
-**Normalization** : To make gene expression values comparable across samples, normalization was done in three steps:
-* `deseq_normalization`: [DeSeq2](https://doi.org/10.1093/gigascience/giab008) was used to remove library size effects and make counts comparable across samples.
-* `edger_normalization`: [edgeR](https://doi.org/10.1093/bioinformatics/btp616) was used to adjust for library compoistion effects using TMM (Trimmed Mean of M-values).
+**Normalization** : To make gene expression values comparable across samples, normalization was done using [DeSeq2](https://doi.org/10.1093/gigascience/giab008) to remove library size effects and make counts comparable across samples. `edger_normalization`: [edgeR](https://doi.org/10.1093/bioinformatics/btp616) was used to adjust for library compoistion effects using TMM (Trimmed Mean of M-values).
 
 **Differntial Expression** : Differntially expressed genes between conditions (`data/conditions.tsv`). [DeSeq2](https://doi.org/10.1093/gigascience/giab008) was used with input files: normalized counts & conditions.tsv file.
 
