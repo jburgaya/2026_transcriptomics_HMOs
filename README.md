@@ -14,8 +14,6 @@ The different conditions tested are defined in `data/conditions.tsv` and the sam
 * `edger_normalization`: [edgeR](https://doi.org/10.1093/bioinformatics/btp616) was used to adjust for library compoistion effects using TMM (Trimmed Mean of M-values) -> later on used for exploratory analyses & clustering.
 * `rpkm_calcluation`: normalize counts for gene length and sequencing depth -> compare expression levels across genes (not just across samples).
 
-**Exploratory analysis** : PCA analysis.
+**Differntial Expression** : Differntially expressed genes between conditions (`data/conditions.tsv`). [DeSeq2](https://doi.org/10.1093/gigascience/giab008) was used with input files: normalized counts & conditions.tsv file.
 
-**Differntial Expression** : Differntially expressed genes between conditions (`data/conditions.tsv`). [DeSeq2](https://doi.org/10.1093/gigascience/giab008) was used with input files: normalized counts & conditions.tsv file. Volcano plot for visualization.
-
-**GO terms functional enrichment analysis** : Get [GO terms](https://github.com/jburgaya/2026_transcriptomics_HMOs/blob/main/workflow/scripts/get_GOterms.py) from annotated reference. GO terms enrichment across conditions.
+The piepeline followed can be found in: [RNASeq](https://github.com/adamd3/BactSeq)
