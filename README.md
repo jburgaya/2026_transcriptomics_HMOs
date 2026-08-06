@@ -14,3 +14,7 @@ The different conditions tested are defined in `data/conditions.tsv` and the sam
 **Differntial Expression** : Differntially expressed genes between conditions (`data/conditions.tsv`). [DeSeq2](https://doi.org/10.1093/gigascience/giab008) was used with input files: normalized counts & conditions.tsv file.
 
 The piepeline followed can be found in: [RNASeq](https://github.com/adamd3/BactSeq)
+
+# CRISPRi-seq data analysis
+
+The script for the CRISPRiseq data analysis can be found in: `workflow/scripts/CRISPRi6.R`
