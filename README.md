@@ -17,4 +17,4 @@ The piepeline followed can be found in: [RNASeq](https://github.com/adamd3/BactS
 
 # CRISPRi-seq data analysis
 
-The script for the CRISPRiseq data analysis can be found in: `workflow/scripts/CRISPRi6.R`
+The script for the CRISPRiseq data analysis can be found in `workflow/scripts/CRISPRi6.R`
